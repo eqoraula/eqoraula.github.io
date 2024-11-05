@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqoraula.github.io/EVU/sitemap_index.txt
+Sitemap: https://eqoraula.github.io/EZY/sitemap_index.txt
+Sitemap: https://eqoraula.github.io/NQE/sitemap_index.txt
+Sitemap: https://eqoraula.github.io/QVw/sitemap_index.txt
